@@ -17,4 +17,4 @@ I downloaded garden.jpg and ran `strings` on it to see if the file contained the
 
 FLAG:
 
-'picoCTF{more_than_m33ts_the_3y35a97d3bB}'
+`picoCTF{more_than_m33ts_the_3y35a97d3bB}`
