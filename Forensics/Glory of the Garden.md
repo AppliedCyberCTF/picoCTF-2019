@@ -6,7 +6,7 @@
 
 ## Challenge
 
-> This garden contains more than it seems. You can also find the L file in /problems/glory-of-the-garden_3_346e50df4a37bcc4aa5f6e5831604e2a on the shell server.
+> This garden contains more than it seems. You can also find the file in /problems/glory-of-the-garden_3_346e50df4a37bcc4aa5f6e5831604e2a on the shell server.
 
 ## Solution
 
