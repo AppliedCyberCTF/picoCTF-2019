@@ -1,4 +1,3 @@
-```
 # PicoCTF 2019 – Glory of the Garden
 
 * **Category:** Forensics
@@ -13,9 +12,8 @@
 
 I downloaded garden.jpg and ran `strings` on it to see if the file contained the flag as a string. Lo and behold, there it was!
 
-![[garden.png.png]]
+![[./Images/gardenTerminal.png]
 
 FLAG:
 
 'picoCTF{more_than_m33ts_the_3y35a97d3bB}'
-```
