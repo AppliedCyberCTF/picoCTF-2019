@@ -12,7 +12,7 @@
 
 I downloaded garden.jpg and ran `strings` on it to see if the file contained the flag as a string. Lo and behold, there it was!
 
-![Terminal Output](../Images/gardenTerminal.jpg)
+![Terminal Output](/Images/gardenTerminal.png)
 
 FLAG:
 
