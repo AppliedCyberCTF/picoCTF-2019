@@ -12,6 +12,15 @@ Writeups for certain challenges from picoCTF 2019 from the Applied Cybersecurity
 |[Glory of the Garden](./Forensics/Glory%20of%20the%20Garden.md)|50|
 </details>
 
+<details>
+<summary>Web</summary>
+
+|Problem|Points|
+|-|-|
+|[picobrowser](./Web/picobrowser.md)|200|
+</details>
+
+
 ## Contributors
 [![contributors](https://contrib.rocks/image?repo=AppliedCyberCTF/picoCTF-2019)](https://contrib.rocks/image?repo=AppliedCyberCTF/picoCTF-2019)  
 ```(c) 2021 Applied Cybersecurity Society```
