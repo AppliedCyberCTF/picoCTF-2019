@@ -2,7 +2,7 @@
 
 * **Category:** Forensics
 * **Points:** 50
-* **Author:** Vynatheya
+* **Author:** Vishnuu Gopi
 
 ## Challenge
 
