@@ -14,6 +14,4 @@ I downloaded garden.jpg and ran `strings` on it to see if the file contained the
 
 ![Terminal Output](/Images/gardenTerminal.png)
 
-FLAG:
-
-'picoCTF{more_than_m33ts_the_3y35a97d3bB}'
+FLAG: `picoCTF{more_than_m33ts_the_3y35a97d3bB}`
